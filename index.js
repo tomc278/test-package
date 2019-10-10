@@ -1,3 +1,5 @@
 module.exports = {
-  getMessage = () => 'Hello world',
+  getMessage() {
+    return 'Hello world';
+  },
 };
