@@ -1,5 +1,5 @@
 module.exports = {
   getMessage() {
-    return 'Hello world';
+    return 'Hello world again';
   },
 };
